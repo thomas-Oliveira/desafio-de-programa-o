@@ -1,10 +1,10 @@
-package HousePrice.Controler;
+package HousePrice.Controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-public class menuControler {
+public class menuController {
 	@RequestMapping("/CalcPreco")
     public String Calc() {
         return "redirect:index.jsp";
@@ -12,6 +12,6 @@ public class menuControler {
 	
 	@RequestMapping("/Sobre")
     public String Sobre() {
-        return "redirect:/";
+        return "redirect:sobre.jsp";
     }
 }

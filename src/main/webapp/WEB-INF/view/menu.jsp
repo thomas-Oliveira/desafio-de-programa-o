@@ -7,7 +7,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-       <a class="navbar-brand" href="">Calculadora de Preço de Casas</a>
+       <a class="navbar-brand" href="/index.jsp">Calculadora de Preço de Casas</a>
      </div>
      <div class="navbar-collapse collapse">
         <div class="row" style="padding-top: 10px;">
